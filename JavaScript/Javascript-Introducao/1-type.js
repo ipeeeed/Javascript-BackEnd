@@ -25,4 +25,3 @@ const numeroDois = 10;
 const numeroTres = 5;
 /*console.log(numeroUm === numeroDois); //5 = 10 é falso
 console.log(numeroUm === numeroTres); //5 = 5 é verdadeiro*/
-
