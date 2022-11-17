@@ -32,10 +32,20 @@ console.log(`A média da sala de JavaScript é ${calculaMedia(salaJS)}\nA média
 
 
 // Clonando com spread operator
-
+/*
 const notas = [7, 7, 8, 9];
 
-const novasNotas = [...notas, 10];
+const novasNotas = [...notas, 10]; // spread operator ... espalha todos os valores de um array em um novo, realizando a clonagem com sucesso.
 
 console.log(`As novas notas são ${novasNotas}`);
 console.log(`As notas originais são ${notas}`);
+*/
+
+// Removendo elementos repetidos
+/*
+const nomes = ["Ana", "Clara", "Maria", "João", "João", "João"];
+//const meuSet = new Set(["Ana", "Clara", "Maria", "João", "João", "João"]);
+const nomesAtualizados = [...new Set(nomes)];
+
+console.log(nomesAtualizados);
+*/
