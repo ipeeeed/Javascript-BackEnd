@@ -1,20 +1,4 @@
 # Comandos
-## Links Pégasus:
-[Api-Dev](https://atendimento-api-dev.in.app.cassems.com.br/)
-[Api-Hml](https://atendimento-api.app-hom.cassems.com.br/)
-[Api-Prd](https://atendimento-api.app.cassems.com.br/)
-
-[Atendimento-Dev](http://atendimento-colaborador.app-dev.in.cassems.com.br)
-[Atendimento-Hml](http://atendimento-colaborador.app-hom.in.cassems.com.br)
-[Atendimento-Prd](http://atendimento-colaborador.app.cassems.com.br)
-
-[Totem-Dev](http://atendimento-front.app-dev.in.cassems.com.br/)
-[Totem-Hml](http://atendimento-front.app-hom.in.cassems.com.br/)
-[Totem-Prd](http://atendimento-front.app.cassems.com.br/)
-
-[Painel-Dev](http://atendimento-painel-front.app-dev.in.cassems.com.br/)
-[Painel-Hml](http://atendimento-painel-front.app-hom.in.cassems.com.br/)
-[Painel-Prd](http://atendimento-painel-front.app.cassems.com.br/)
 
 ## Windows
 [Win]+[R]                               Abre o programa **Executar**
@@ -60,8 +44,4 @@
 - git commit -m ""                      Atualiza a branch
 - git push                              Manda os commits para serem puxados
 
-- git push origin [branch]            
-
-
-* 172.16.37.146 [Local-Willyan]
-* 172.16.36.220 [Local-Nicolas]
+- git push origin [branch]              
