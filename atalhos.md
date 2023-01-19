@@ -40,7 +40,7 @@
 - git checkout [branch]                 Entra em uma branch
 - git checkout -b                       Cria uma branch
 - git pull                              Puxa atualizações de outros commits
-- git add.                              Acrescenta os arquivos modificados para serem comitados
+- git add .                              Acrescenta os arquivos modificados para serem comitados
 - git commit -m ""                      Atualiza a branch
 - git push                              Manda os commits para serem puxados
 
